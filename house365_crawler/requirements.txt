@@ -1,4 +1,4 @@
-aiohttp==3.5.4
+aiohttp==3.7.4
 aiostream==0.3.1
 async-retrying==0.2.2
 async-timeout==3.0.1
